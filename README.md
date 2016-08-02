@@ -7,6 +7,9 @@ Term of computer science and programming translation table
 - Docker.Taipei - [《Docker —— 從入門到實踐­》正體中文版](https://www.gitbook.com/book/philipzheng/docker_practice/details)
 - [Pro Git 繁體中文第二版](https://github.com/progit/progit2-zh-tw)
 - [Crystal 正體中文（臺灣）文件](https://github.com/crystal-tw/crystal-tw.github.io)
+- [Python 官方說明文件中文翻譯計畫](https://github.com/python-doc-tw/python-doc-tw)
+- [Golang 中文文件](https://github.com/golangtw/Docs)
+- [正體中文版蘋果 Swift 官方教學](https://github.com/tommy60703/the-swift-programming-language-in-traditional-chinese)
 
 
 ## References
